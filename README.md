@@ -1,4 +1,8 @@
-# note-scripts
+# Obsidian Scripts
+
+A collection of tools I use to automate some tasks in my personal [Obsidian](https://obsidian.md/) vault.
+
+## Development
 
 To install dependencies:
 
@@ -11,5 +15,3 @@ To run:
 ```bash
 bun run src/index.ts
 ```
-
-This project was created using `bun init` in bun v1.1.20. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
